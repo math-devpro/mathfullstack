@@ -38,4 +38,10 @@ https://github.com/mathfullstack/
 https://github.com/brmy1/
 <br />
 https://github.com/msturiao/
-
+<br />
+<br />
+hr
+De DEV para DEV:
+<br />
+<br />
+https://learn-anything.xyz/
