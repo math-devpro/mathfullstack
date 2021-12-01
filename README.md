@@ -40,7 +40,7 @@ https://github.com/brmy1/
 https://github.com/msturiao/
 <br />
 <br />
-hr
+<hr />
 De DEV para DEV:
 <br />
 <br />
