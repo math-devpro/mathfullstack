@@ -7,9 +7,9 @@
 <br />
 <br />
 
-Comecei com games, em seguida html, css, php, javascript, phyton, dart, . Frameworks como vuejs, react, flutter. Trabalhei em diversos projetos, incluindo estoque, financeiro e grande demanda de usuarios.
+Comecei com games em lua, em seguida html, css, php, javascript, typescript phyton, dart, . Frameworks como vuejs, react, flutter. Trabalhei em diversos projetos, incluindo estoque, financeiro e grande demanda de usuarios.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="./assets/img.gif" width="500" height="320" />
   
 - 💼 Freelancer? Me envie um [email](mailto:matheussturiao@gmail.com ) :)
 - 💬 Procurando uma ajuda? Ficarei feliz em ajudar
